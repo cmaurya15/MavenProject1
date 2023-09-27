@@ -29,5 +29,17 @@ public class DashboardTest
 	{
 		
 	}
+	
+	@Test
+	public void DashBoardTest5()
+	{
+		
+	}
+	
+	@Test
+	public void DashBoardTest6()
+	{
+		
+	}
 
 }
